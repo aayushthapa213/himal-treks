@@ -1,0 +1,18 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 70px;
+}
+.hero-icon {
+  font-size: 4rem;
+}
+.trek-img {
+  background: #cfe2ff;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+}
+.why-icon {
+  font-size: 2rem;
+}
